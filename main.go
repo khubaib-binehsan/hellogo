@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
+	"github.com/khubaib-binehsan/hellogo/bar"
 	"github.com/khubaib-binehsan/hellogo/internal/foo"
-	"github.com/khubaib-binehsan/hellogo/pkg/bar"
 )
 
 func main() {
